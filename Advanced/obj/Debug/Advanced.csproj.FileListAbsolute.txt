@@ -1,0 +1,8 @@
+D:\Practice programming\DotNet\Advanced\bin\Debug\Advanced.exe.config
+D:\Practice programming\DotNet\Advanced\bin\Debug\Advanced.exe
+D:\Practice programming\DotNet\Advanced\bin\Debug\Advanced.pdb
+D:\Practice programming\DotNet\Advanced\obj\Debug\Advanced.csproj.AssemblyReference.cache
+D:\Practice programming\DotNet\Advanced\obj\Debug\Advanced.csproj.SuggestedBindingRedirects.cache
+D:\Practice programming\DotNet\Advanced\obj\Debug\Advanced.csproj.CoreCompileInputs.cache
+D:\Practice programming\DotNet\Advanced\obj\Debug\Advanced.exe
+D:\Practice programming\DotNet\Advanced\obj\Debug\Advanced.pdb

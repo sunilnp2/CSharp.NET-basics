@@ -1,0 +1,8 @@
+D:\Practice programming\DotNet\LinQPractice\bin\Debug\LinQPractice.exe.config
+D:\Practice programming\DotNet\LinQPractice\bin\Debug\LinQPractice.exe
+D:\Practice programming\DotNet\LinQPractice\bin\Debug\LinQPractice.pdb
+D:\Practice programming\DotNet\LinQPractice\obj\Debug\LinQPractice.csproj.AssemblyReference.cache
+D:\Practice programming\DotNet\LinQPractice\obj\Debug\LinQPractice.csproj.SuggestedBindingRedirects.cache
+D:\Practice programming\DotNet\LinQPractice\obj\Debug\LinQPractice.csproj.CoreCompileInputs.cache
+D:\Practice programming\DotNet\LinQPractice\obj\Debug\LinQPractice.exe
+D:\Practice programming\DotNet\LinQPractice\obj\Debug\LinQPractice.pdb

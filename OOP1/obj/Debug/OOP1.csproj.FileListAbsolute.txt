@@ -1,0 +1,8 @@
+D:\Practice programming\DotNet\OOP1\bin\Debug\OOP1.exe.config
+D:\Practice programming\DotNet\OOP1\bin\Debug\OOP1.exe
+D:\Practice programming\DotNet\OOP1\bin\Debug\OOP1.pdb
+D:\Practice programming\DotNet\OOP1\obj\Debug\OOP1.csproj.AssemblyReference.cache
+D:\Practice programming\DotNet\OOP1\obj\Debug\OOP1.csproj.SuggestedBindingRedirects.cache
+D:\Practice programming\DotNet\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+D:\Practice programming\DotNet\OOP1\obj\Debug\OOP1.exe
+D:\Practice programming\DotNet\OOP1\obj\Debug\OOP1.pdb

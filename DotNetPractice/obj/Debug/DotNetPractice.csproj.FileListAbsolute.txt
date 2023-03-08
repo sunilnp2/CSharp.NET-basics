@@ -1,0 +1,8 @@
+D:\BCA\5th Semester\DotNet\AllPractice\DotNetPractice\bin\Debug\DotNetPractice.exe.config
+D:\BCA\5th Semester\DotNet\AllPractice\DotNetPractice\bin\Debug\DotNetPractice.exe
+D:\BCA\5th Semester\DotNet\AllPractice\DotNetPractice\bin\Debug\DotNetPractice.pdb
+D:\BCA\5th Semester\DotNet\AllPractice\DotNetPractice\obj\Debug\DotNetPractice.csproj.AssemblyReference.cache
+D:\BCA\5th Semester\DotNet\AllPractice\DotNetPractice\obj\Debug\DotNetPractice.csproj.SuggestedBindingRedirects.cache
+D:\BCA\5th Semester\DotNet\AllPractice\DotNetPractice\obj\Debug\DotNetPractice.csproj.CoreCompileInputs.cache
+D:\BCA\5th Semester\DotNet\AllPractice\DotNetPractice\obj\Debug\DotNetPractice.exe
+D:\BCA\5th Semester\DotNet\AllPractice\DotNetPractice\obj\Debug\DotNetPractice.pdb
